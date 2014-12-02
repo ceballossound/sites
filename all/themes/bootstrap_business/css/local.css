@@ -1,0 +1,100 @@
+/* Custom CSS overrides */
+#main {border-bottom: 1px solid #eee;}
+#page { background-color: #fff; }
+/* ========================================================================================= */
+/* utilities */
+/* ========================================================================================= */
+
+/* ========================================================================================= */
+/* header-top-inside */
+/* ========================================================================================= */
+#header-inside { text-align: left; border: 1px solid #000; min-height: 45px; margin-top: .5em; padding-top: .5em; }
+#header-inside  img { display: inline-block; }
+
+.a_tg74 { text-align: left; color: #000000; }
+#inputImg1 { background: url(../images/img/boletinImg.png)no-repeat 2%; padding-left: 13%; }
+.form-control-nucleos { border: 1px solid #000; border-radius: .5em; width: 100%; }
+#inputImg2 { background: url(../images/img/buscarImg.png)no-repeat 2%; padding-left: 13%; }
+
+
+
+/* ========================================================================================= */
+/* content */
+/* ========================================================================================= */
+/*panels-ipe-regionid-top*/
+a#logonucleos { position: relative; }
+.bootstrap-threecol-stacked > .row > .pane-block-4 {position: absolute; top: 0px; left: 0px; right: 0px; padding-left: 15px; z-index: 999; padding-bottom: 20px; padding-top: 20px; background: rgba(33, 33, 33, 0.74); }
+.pane-user-login { background: #afd300 url(../images/img/logoFormNucleos.png)no-repeat 98% 24%; color: #fff; position: absolute; right: 0%; bottom: 0px; width: 30%; z-index: 998;}
+.pane-user-login h2.pane-title { background: #ffc200; color: #000; font-size: 1.3em; margin: 0em; padding: .3em; text-align: center; }
+
+#edit-actions { margin: 0px !important; }
+.pane-user-login input[type="submit"] {background: #fd8708; border-bottom: 1px solid #212121; border-left: 0px; border-right: 0px; border-top: 0px; float: right; font-weight: bold; margin: 0px !important; padding: 0px !important; }
+.pane-user-login .pane-content { padding: 30px; }
+.pane-user-login .pane-content .form-item { margin: 0px !important; }
+.pane-user-login .pane-content .form-item label { color: #000; }
+.pane-user-login .pane-content .form-item input { color: #000; border: 1px solid #212121; width: 100%; height: 35px !important; }
+.pane-user-login .item-list { margin-top: 1em; }
+.pane-user-login .item-list ul { margin: 0px !important; }
+.pane-user-login .item-list ul li { padding: 0px !important; }
+.pane-user-login .item-list ul li a { color: #576f00; }
+
+.bootstrap-threecol-stacked > .row > .pane-block-5 {position: absolute; bottom: 0%; left: 0%; background: rgba(17, 17, 17, 0.95); z-index: 997; color: #fff; width: 42%; }
+.bootstrap-threecol-stacked > .row > .pane-block-5 p { font-size: 1.3em; padding: 2.3%; text-align: justify; }
+.bootstrap-threecol-stacked > .row > .pane-block-5 button { width: 100%; border: 0px; color: #000; background: #ffc200; font-size: 1.4em; text-align: right; }
+.bootstrap-threecol-stacked > .row > .pane-block-5 button img { display: inline-block !important; }
+/*panels-ipe-regionid-left*/
+
+/*panels-ipe-regionid-middle*/
+
+/*panels-ipe-regionid-right*/
+
+/*panels-ipe-regionid-bottom*/
+#servicios h3 {color: #000; font-size: 1.7em; }
+hr.linea_servicios { border: 1px dashed #333; margin-bottom: 19px; margin-top: 13px; }
+.article_practica { position: relative; }
+#serviciosImgP1 {margin-bottom: 3%;}
+#serviciosImgP1 > div > img { position: relative; }
+#serviciosImgP2 > div > img { position: relative; }
+.article_practica p, #serviciosImgP1 p, #serviciosImgP2 p { margin-bottom: 11px;}
+.article_practica img, #serviciosImgP1 img, #serviciosImgP2 img { display: inline-block; }
+
+.caption-practica { position: absolute; bottom: 0%; left: 0px; color: #FFF; padding-right: 1em; text-align: right; width: 100%; }
+.caption-practica p { display: inline-block; padding-right: 3%; color: white; }
+.caption-aprendizaje { position: absolute; bottom: 0%; left: 0px; color: #FFF; padding-left: 1em;  text-align: left; width: 100%; }
+.caption-aprendizaje p { display: inline-block; padding-right: 3%; color: white; }
+.caption-ideacion { position: absolute; bottom: 0%; left: 0px; color: #FFF; padding-right: 1em; text-align: right; width: 100%; }
+.caption-ideacion p { display: inline-block; padding-right: 3%; color: white; }
+.caption-experiencia { position: absolute;  bottom: 0%; left: 0px; color: #FFF; padding-left: 1em;text-align: left; width: 100%; }
+.caption-experiencia p { display: inline-block; padding-right: 3%; color: white; }
+.caption-marketplace {  position: absolute; bottom: 0%; left: 0px; color: #FFF; padding-right: 1em;text-align: right; width: 100%; }
+.caption-marketplace p { display: inline-block; padding-right: 3%; color: white; }
+
+
+/* ========================================================================================= */
+/* footer */
+/* ========================================================================================= */
+#footer-inside { background: #afd200; padding-bottom: 1em; padding-left: 1.5em; padding-right: 1.5em; padding-top: 1.5em; }
+#ejecutor { text-align: right; padding-right: 15px; }
+#block-block-1 p { font-size: 16px; color: #333; display: inline-block; vertical-align: middle; margin-bottom: 0px; text-align: left; line-height: 1.42857143; }
+
+#block-block-1, #block-block-2 { padding-bottom: 0px; }
+#social { padding: 0px; margin-top: 21px; margin-bottom: 0px; }
+#social li { list-style-type: none; display: inline-block; width: 70px; }
+#social li a { display: block; width: 100%; height: 100%; }
+#social li a img { width: 100%; height: auto; }
+
+/* ========================================================================================= */
+/* subfooter */
+/* ========================================================================================= */
+#subfooter-inside { background: #1f1f1f; color: #FFF; margin: 0 auto; padding: .5em; width: 100%; }
+
+
+
+/* ========================================================================================= */
+/* 320 x 480 dpr 2  */
+/* ========================================================================================= */
+@media only screen and (max-width:480px){
+	.bootstrap-threecol-stacked > .row > .pane-block-5 { position: relative !important; width: 100% !important; } 
+	.pane-user-login { position: relative !important; width: 100% !important; }
+}
+

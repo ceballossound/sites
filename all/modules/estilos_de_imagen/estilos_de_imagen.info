@@ -1,0 +1,8 @@
+name = estilos de imagen
+core = 7.x
+package = Features
+dependencies[] = image
+features[features_api][] = api:2
+features[image][] = estilo_general_de_contenido
+features[image][] = estilo_para_comentarios
+features[image][] = estilo_para_noticias_previas

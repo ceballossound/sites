@@ -1,0 +1,7 @@
+.service-links ul.links li{display:inline-block;}
+.sprites.service-links span{display:block;}
+.service-links span.hide{display:none;}
+.sprites.service-links {background-repeat: no-repeat; float:left;}
+.sprites.service-links.w256 {padding-left: 258px; background-image:url("sl_sprites256.png");}
+.sprites.service-links-twitter {background-position: 0 0px; height:256px}
+.sprites.service-links-facebook {background-position: 0 -256px; height:256px}
