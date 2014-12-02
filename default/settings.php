@@ -217,8 +217,8 @@ $databases = array (
     array (
       'database' => 'kco1427707375179',
       'username' => 'root',
-      'password' => 'root',
-      'host' => 'localhost',
+      'password' => 'Totems1234',
+      'host' => '23.98.146.244',
       'port' => '',
       'driver' => 'mysql',
       'prefix' => '',
