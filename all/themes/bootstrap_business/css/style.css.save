@@ -689,7 +689,7 @@ hr.linea_servicios { border: 1px dashed #333; margin-bottom: 19px; margin-top: 1
 /* footer */
 /* ========================================================================================= */
 #footer-inside { background: #afd200; padding-bottom: 1em; padding-left: 1.5em; padding-right: 1.5em; padding-top: 1.5em; }
-#ejecutor { text-align:left; padding-right: 15px; }
+#ejecutor { text-align: right; padding-right: 15px; }
 #block-block-1 p { font-size: 16px; color: #333; display: inline-block; vertical-align: middle; margin-bottom: 0px; text-align: left; line-height: 1.42857143; }
 
 #block-block-1, #block-block-2 { padding-bottom: 0px; }
